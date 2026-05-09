@@ -1,0 +1,17 @@
+name: 豆瓣电影查询
+version: "1.0.0"
+description: 豆瓣电影查询插件，支持搜索电影、查看详情和热门评论
+author: YourName
+repository: https://github.com/your/repo
+tags:
+  - douban
+  - movie
+  - search
+platforms:
+  - aiocqhttp
+  - gewechat
+  - telegram
+source:
+  url: https://github.com/your/repo
+  branch: main
+  path: core/data/plugins/astrbot_plugin_douban

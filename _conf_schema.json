@@ -1,0 +1,17 @@
+{
+  "timeout": {
+    "description": "HTTP 请求超时时间（秒）",
+    "type": "int",
+    "default": 30
+  },
+  "max_results": {
+    "description": "搜索结果最大返回数量",
+    "type": "int",
+    "default": 20
+  },
+  "max_comments": {
+    "description": "评论最大返回数量",
+    "type": "int",
+    "default": 10
+  }
+}
